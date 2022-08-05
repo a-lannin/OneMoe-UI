@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-cmn-Hans">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="main.css"/>
+<link rel="stylesheet" href="typo.css"/>
+<script src="main.js"></script>
+<title>OneMoe-UI</title>
+</head>
+
+<body class="om-page-with-appbar om-theme-layout-auto" >
+<div class="om-appbar" style="">
+  <a>关于OneMoe-UI</a>
+</div>
+<div class="om-container om-typo">
+<h1>什么事OneMoe-UI？</h1>
+<p>这逝一个PlainC长期维护开发的一个前端UI组件库，仍在测试中，日后一定会开源。(咕咕咕</p>
+<p><a href="debug">去Debug页<del>一起迫害PlainC</del>（大雾</a></p>
+<strong><h2>这个组件库有什么特别的吗？</h2></strong>
+<h3>它够轻量，也足够用。</h3>
+<p>OneMoe-UI体积只有27kb左右，加载迅速，不会浪费服务器资源，而且基本组件都够用。</p>
+<h2>目前的开发进度？</h2>
+<p>咕咕咕咕咕咕咕咕咕咕咕</p>
+<h2>目前有多少组件？</h2>
+<p>awa，我自己都不知道到底多少个，debug页里其实也没写全，所以你们自己看<a href="main.css">代码</a>有多少组件吧owo</p>
+</div>
+</body>
+</html>
