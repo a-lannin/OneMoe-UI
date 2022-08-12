@@ -1,5 +1,0 @@
-:root{font-family : 'Microsoft YaHei', sans-serif;}
-.om-typo h1,h2,h3,h4,h5,h6{font-weight:450}
-.om-typo p,span,div,a{font-weight:300}
-.om-typo a{-webkit-transition-duration:.4s;transition-duration:.4s;text-decoration: none; color:#456ef7}
-.om-typo a:hover{text-decoration :underline}
